@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: 3de9fb9f081b02d4a808e5d6acd21330
+timeCreated: 1455499159
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: holders-lilimanim_0
+    21300002: holders-lilimanim_1
+    21300004: holders-lilimanim_2
+    21300006: holders-lilimanim_3
+    21300008: holders-lilimanim_4
+    21300010: holders-lilimanim_5
+    21300012: holders-lilimanim_6
+    21300014: holders-lilimanim_7
+    21300016: holders-lilimanim_8
+    21300018: holders-lilimanim_9
+    21300020: holders-lilimanim_10
+    21300022: holders-lilimanim_11
+    21300024: holders-lilimanim_12
+    21300026: holders-lilimanim_13
+    21300028: holders-lilimanim_14
+    21300030: holders-lilimanim_15
+    21300032: holders-lilimanim_16
+    21300034: holders-lilimanim_17
+    21300036: holders-lilimanim_18
+    21300038: holders-lilimanim_19
+    21300040: holders-lilimanim_20
+    21300042: holders-lilimanim_21
+    21300044: holders-lilimanim_22
+    21300046: holders-lilimanim_23
+    21300048: holders-lilimanim_24
+    21300050: holders-lilimanim_25
+    21300052: holders-lilimanim_26
+    21300054: holders-lilimanim_27
+    21300056: holders-lilimanim_28
+    21300058: holders-lilimanim_29
+    21300060: holders-lilimanim_30
+    21300062: holders-lilimanim_31
+    21300064: holders-lilimanim_32
+    21300066: holders-lilimanim_33
+    21300068: holders-lilimanim_34
+    21300070: holders-lilimanim_35
+    21300072: holders-lilimanim_36
+    21300074: holders-lilimanim_37
+    21300076: holders-lilimanim_38
+    21300078: holders-lilimanim_39
+    21300080: holders-lilimanim_40
+    21300082: holders-lilimanim_41
+    21300084: holders-lilimanim_42
+    21300086: holders-lilimanim_43
+    21300088: holders-lilimanim_44
+    21300090: holders-lilimanim_45
+    21300092: holders-lilimanim_46
+    21300094: holders-lilimanim_47
+    21300096: holders-lilimanim_48
+    21300098: holders-lilimanim_49
+    21300100: holders-lilimanim_50
+    21300102: holders-lilimanim_51
+    21300104: holders-lilimanim_52
+    21300106: holders-lilimanim_53
+    21300108: holders-lilimanim_54
+    21300110: holders-lilimanim_55
+    21300112: holders-lilimanim_56
+    21300114: holders-lilimanim_57
+    21300116: holders-lilimanim_58
+    21300118: holders-lilimanim_59
+    21300120: holders-lilimanim_60
+    21300122: holders-lilimanim_61
+    21300124: holders-lilimanim_62
+    21300126: holders-lilimanim_63
+    21300128: holders-lilimanim_64
+    21300130: holders-lilimanim_65
+    21300132: holders-lilimanim_66
+    21300134: holders-lilimanim_67
+    21300136: holders-lilimanim_68
+    21300138: holders-lilimanim_69
+    21300140: holders-lilimanim_70
+    21300142: holders-lilimanim_71
+    21300144: holders-lilimanim_72
+    21300146: holders-lilimanim_73
+    21300148: holders-lilimanim_74
+    21300150: holders-lilimanim_75
+    21300152: holders-lilimanim_76
+    21300154: holders-lilimanim_77
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: holders-lilimanim_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1046
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1049
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1049
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1050
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1050
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1046
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 972
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 971
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 970
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 971
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 972
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 973
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 886
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 889
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 889
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 890
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 890
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 886
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 805
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 804
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 805
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 804
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 805
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 804
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 728
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 727
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 730
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 721
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 721
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 720
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 641
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 642
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 641
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 642
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 642
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 562
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 563
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 562
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 563
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_40
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 562
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 563
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 485
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 485
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 482
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_45
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 482
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_46
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 491
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_47
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 482
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 406
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 409
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_50
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 409
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_51
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 410
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_52
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 410
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_53
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 406
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 326
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_56
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 322
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_57
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 324
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_58
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 325
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 325
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 241
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 242
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 241
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 242
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 241
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_65
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 242
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 165
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_67
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 165
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_68
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 164
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_69
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 162
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_70
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 162
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_71
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 166
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 85
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_73
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 84
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_74
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 83
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 84
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_76
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 85
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: holders-lilimanim_77
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 86
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

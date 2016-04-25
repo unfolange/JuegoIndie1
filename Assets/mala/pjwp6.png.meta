@@ -1,0 +1,2421 @@
+fileFormatVersion: 2
+guid: ba7b828ee3b7e844a984d0bfbeb94030
+timeCreated: 1454267389
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pjwp6_0
+    21300002: pjwp6_1
+    21300004: pjwp6_2
+    21300006: pjwp6_3
+    21300008: pjwp6_4
+    21300010: pjwp6_5
+    21300012: pjwp6_6
+    21300014: pjwp6_7
+    21300016: pjwp6_8
+    21300018: pjwp6_9
+    21300020: pjwp6_10
+    21300022: pjwp6_11
+    21300024: pjwp6_12
+    21300026: pjwp6_13
+    21300028: pjwp6_14
+    21300030: pjwp6_15
+    21300032: pjwp6_16
+    21300034: pjwp6_17
+    21300036: pjwp6_18
+    21300038: pjwp6_19
+    21300040: pjwp6_20
+    21300042: pjwp6_21
+    21300044: pjwp6_22
+    21300046: pjwp6_23
+    21300048: pjwp6_24
+    21300050: pjwp6_25
+    21300052: pjwp6_26
+    21300054: pjwp6_27
+    21300056: pjwp6_28
+    21300058: pjwp6_29
+    21300060: pjwp6_30
+    21300062: pjwp6_31
+    21300064: pjwp6_32
+    21300066: pjwp6_33
+    21300068: pjwp6_34
+    21300070: pjwp6_35
+    21300072: pjwp6_36
+    21300074: pjwp6_37
+    21300076: pjwp6_38
+    21300078: pjwp6_39
+    21300080: pjwp6_40
+    21300082: pjwp6_41
+    21300084: pjwp6_42
+    21300086: pjwp6_43
+    21300088: pjwp6_44
+    21300090: pjwp6_45
+    21300092: pjwp6_46
+    21300094: pjwp6_47
+    21300096: pjwp6_48
+    21300098: pjwp6_49
+    21300100: pjwp6_50
+    21300102: pjwp6_51
+    21300104: pjwp6_52
+    21300106: pjwp6_53
+    21300108: pjwp6_54
+    21300110: pjwp6_55
+    21300112: pjwp6_56
+    21300114: pjwp6_57
+    21300116: pjwp6_58
+    21300118: pjwp6_59
+    21300120: pjwp6_60
+    21300122: pjwp6_61
+    21300124: pjwp6_62
+    21300126: pjwp6_63
+    21300128: pjwp6_64
+    21300130: pjwp6_65
+    21300132: pjwp6_66
+    21300134: pjwp6_67
+    21300136: pjwp6_68
+    21300138: pjwp6_69
+    21300140: pjwp6_70
+    21300142: pjwp6_71
+    21300144: pjwp6_72
+    21300146: pjwp6_73
+    21300148: pjwp6_74
+    21300150: pjwp6_75
+    21300152: pjwp6_76
+    21300154: pjwp6_77
+    21300156: pjwp6_78
+    21300158: pjwp6_79
+    21300160: pjwp6_80
+    21300162: pjwp6_81
+    21300164: pjwp6_82
+    21300166: pjwp6_83
+    21300168: pjwp6_84
+    21300170: pjwp6_85
+    21300172: pjwp6_86
+    21300174: pjwp6_87
+    21300176: pjwp6_88
+    21300178: pjwp6_89
+    21300180: pjwp6_90
+    21300182: pjwp6_91
+    21300184: pjwp6_92
+    21300186: pjwp6_93
+    21300188: pjwp6_94
+    21300190: pjwp6_95
+    21300192: pjwp6_96
+    21300194: pjwp6_97
+    21300196: pjwp6_98
+    21300198: pjwp6_99
+    21300200: pjwp6_100
+    21300202: pjwp6_101
+    21300204: pjwp6_102
+    21300206: pjwp6_103
+    21300208: pjwp6_104
+    21300210: pjwp6_105
+    21300212: pjwp6_106
+    21300214: pjwp6_107
+    21300216: pjwp6_108
+    21300218: pjwp6_109
+    21300220: pjwp6_110
+    21300222: pjwp6_111
+    21300224: pjwp6_112
+    21300226: pjwp6_113
+    21300228: pjwp6_114
+    21300230: pjwp6_115
+    21300232: pjwp6_116
+    21300234: pjwp6_117
+    21300236: pjwp6_118
+    21300238: pjwp6_119
+    21300240: pjwp6_120
+    21300242: pjwp6_121
+    21300244: pjwp6_122
+    21300246: pjwp6_123
+    21300248: pjwp6_124
+    21300250: pjwp6_125
+    21300252: pjwp6_126
+    21300254: pjwp6_127
+    21300256: pjwp6_128
+    21300258: pjwp6_129
+    21300260: pjwp6_130
+    21300262: pjwp6_131
+    21300264: pjwp6_132
+    21300266: pjwp6_133
+    21300268: pjwp6_134
+    21300270: pjwp6_135
+    21300272: pjwp6_136
+    21300274: pjwp6_137
+    21300276: pjwp6_138
+    21300278: pjwp6_139
+    21300280: pjwp6_140
+    21300282: pjwp6_141
+    21300284: pjwp6_142
+    21300286: pjwp6_143
+    21300288: pjwp6_144
+    21300290: pjwp6_145
+    21300292: pjwp6_146
+    21300294: pjwp6_147
+    21300296: pjwp6_148
+    21300298: pjwp6_149
+    21300300: pjwp6_150
+    21300302: pjwp6_151
+    21300304: pjwp6_152
+    21300306: pjwp6_153
+    21300308: pjwp6_154
+    21300310: pjwp6_155
+    21300312: pjwp6_156
+    21300314: pjwp6_157
+    21300316: pjwp6_158
+    21300318: pjwp6_159
+    21300320: pjwp6_160
+    21300322: pjwp6_161
+    21300324: pjwp6_162
+    21300326: pjwp6_163
+    21300328: pjwp6_164
+    21300330: pjwp6_165
+    21300332: pjwp6_166
+    21300334: pjwp6_167
+    21300336: pjwp6_168
+    21300338: pjwp6_169
+    21300340: pjwp6_170
+    21300342: pjwp6_171
+    21300344: pjwp6_172
+    21300346: pjwp6_173
+    21300348: pjwp6_174
+    21300350: pjwp6_175
+    21300352: pjwp6_176
+    21300354: pjwp6_177
+    21300356: pjwp6_178
+    21300358: pjwp6_179
+    21300360: pjwp6_180
+    21300362: pjwp6_181
+    21300364: pjwp6_182
+    21300366: pjwp6_183
+    21300368: pjwp6_184
+    21300370: pjwp6_185
+    21300372: pjwp6_186
+    21300374: pjwp6_187
+    21300376: pjwp6_188
+    21300378: pjwp6_189
+    21300380: pjwp6_190
+    21300382: pjwp6_191
+    21300384: pjwp6_192
+    21300386: pjwp6_193
+    21300388: pjwp6_194
+    21300390: pjwp6_195
+    21300392: pjwp6_196
+    21300394: pjwp6_197
+    21300396: pjwp6_198
+    21300398: pjwp6_199
+    21300400: pjwp6_200
+    21300402: pjwp6_201
+    21300404: pjwp6_202
+    21300406: pjwp6_203
+    21300408: pjwp6_204
+    21300410: pjwp6_205
+    21300412: pjwp6_206
+    21300414: pjwp6_207
+    21300416: pjwp6_208
+    21300418: pjwp6_209
+    21300420: pjwp6_210
+    21300422: pjwp6_211
+    21300424: pjwp6_212
+    21300426: pjwp6_213
+    21300428: pjwp6_214
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pjwp6_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2930
+        width: 211
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2927
+        width: 210
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2926
+        width: 211
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_3
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2924
+        width: 210
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_4
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2921
+        width: 211
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_5
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2922
+        width: 211
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_6
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2927
+        width: 210
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_7
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2930
+        width: 211
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2775
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2775
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2778
+        width: 169
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2774
+        width: 150
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_12
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2772
+        width: 155
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_13
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2774
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_14
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2747
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_15
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2746
+        width: 90
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_16
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 2747
+        width: 98
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_17
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2741
+        width: 100
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2595
+        width: 115
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2606
+        width: 148
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2608
+        width: 110
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2608
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_22
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2618
+        width: 151
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_23
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2615
+        width: 157
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_24
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2618
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_25
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 2572
+        width: 96
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_26
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2572
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2436
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2446
+        width: 130
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2443
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_30
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2519
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_31
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2505
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_32
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2508
+        width: 90
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_33
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2493
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_34
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2468
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_35
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2498
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_36
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2498
+        width: 97
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_37
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2482
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_38
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2426
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2431
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_40
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2423
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_41
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2423
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_42
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2229
+        width: 211
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_43
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 2353
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2335
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_45
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2333
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2322
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_47
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2324
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_48
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2316
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_49
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2330
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_50
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2329
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_51
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2339
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_52
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2333
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_53
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 2330
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_54
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2319
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_55
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2322
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_56
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2259
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_58
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2260
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_59
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2260
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2251
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_61
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2221
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_62
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2206
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_63
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2257
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_64
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2225
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_65
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2222
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_66
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2218
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_67
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2221
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_68
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2212
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_69
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 2194
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_70
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2206
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_71
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2214
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_72
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2049
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_73
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2049
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2054
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_75
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2049
+        width: 152
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_76
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2046
+        width: 157
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_77
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2049
+        width: 150
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_78
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2021
+        width: 88
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_79
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2021
+        width: 88
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_80
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 2014
+        width: 96
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_81
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2009
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_82
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1888
+        width: 213
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_83
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1871
+        width: 115
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_84
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1880
+        width: 148
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_85
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1883
+        width: 112
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_86
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1883
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_87
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1893
+        width: 150
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_88
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1891
+        width: 155
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_89
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1893
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_90
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1902
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_91
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1866
+        width: 96
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_92
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1869
+        width: 101
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_93
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1711
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_94
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1722
+        width: 129
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_95
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1719
+        width: 120
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_96
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1801
+        width: 89
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_97
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1792
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_98
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1790
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_99
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1770
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_100
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1745
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_101
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1711
+        width: 172
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_102
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1711
+        width: 203
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_103
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1635
+        width: 211
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_104
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1702
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_105
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1705
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_106
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1708
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_107
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1700
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_108
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1700
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_109
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1671
+        width: 98
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_110
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1673
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_111
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1443
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1410
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_113
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1406
+        width: 206
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_114
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1410
+        width: 211
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1400
+        width: 211
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_116
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1396
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_117
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1383
+        width: 208
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_118
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1381
+        width: 211
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_119
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1381
+        width: 211
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_120
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1297
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1297
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_122
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1294
+        width: 100
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_123
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1289
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_124
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1294
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_125
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1266
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_126
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1282
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_127
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1276
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_128
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1257
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_129
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1265
+        width: 107
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_130
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1269
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_131
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1285
+        width: 81
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_132
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1283
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_133
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1279
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_134
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1215
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_135
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1173
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_136
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1179
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_137
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1240
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_138
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1192
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_139
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1187
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_140
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1184
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_141
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1184
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_142
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1182
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_143
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1193
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_144
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1182
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_145
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1182
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_146
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1181
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_147
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 995
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_148
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 993
+        width: 89
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_149
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 993
+        width: 160
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_150
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 993
+        width: 154
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_151
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 993
+        width: 159
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_152
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 990
+        width: 137
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_153
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 992
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_154
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 989
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_155
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1046
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_156
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 976
+        width: 82
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_157
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 973
+        width: 82
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_158
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 883
+        width: 211
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_159
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 823
+        width: 102
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_160
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 832
+        width: 134
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_161
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 848
+        width: 109
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_162
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 844
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_163
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 843
+        width: 153
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_164
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 840
+        width: 137
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_165
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 835
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_166
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 841
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_167
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 886
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_168
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 824
+        width: 83
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_169
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 821
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_170
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 686
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_171
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 691
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_172
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 691
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_173
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 699
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_174
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 747
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_175
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 737
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_176
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 737
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_177
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 717
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_178
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 692
+        width: 39
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_179
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 727
+        width: 89
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_180
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 727
+        width: 94
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_181
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 626
+        width: 211
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_182
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 692
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_183
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 696
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_184
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 688
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_185
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 688
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_186
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 599
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 602
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_188
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 596
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_189
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 592
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_190
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 598
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_191
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 578
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_192
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 585
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_193
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 579
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_194
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 575
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_195
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 568
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_196
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 573
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_197
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 587
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_198
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 585
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_199
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 587
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_200
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 519
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_201
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 486
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_202
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 483
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_203
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 542
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_204
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 495
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_205
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 489
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_206
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 486
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_207
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 486
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_208
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 486
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_209
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 497
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_210
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 486
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_211
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 340
+        width: 211
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_212
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 337
+        width: 211
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_213
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 486
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pjwp6_214
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 483
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

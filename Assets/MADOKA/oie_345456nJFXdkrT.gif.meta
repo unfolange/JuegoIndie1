@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 7499ff0eda8986d419b6e5ac73218f95
+timeCreated: 1454473021
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oie_345456nJFXdkrT_0
+    21300002: oie_345456nJFXdkrT_1
+    21300004: oie_345456nJFXdkrT_2
+    21300006: oie_345456nJFXdkrT_3
+    21300008: oie_345456nJFXdkrT_4
+    21300010: oie_345456nJFXdkrT_5
+    21300012: oie_345456nJFXdkrT_6
+    21300014: oie_345456nJFXdkrT_7
+    21300016: oie_345456nJFXdkrT_8
+    21300018: oie_345456nJFXdkrT_9
+    21300020: oie_345456nJFXdkrT_10
+    21300022: oie_345456nJFXdkrT_11
+    21300024: oie_345456nJFXdkrT_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: oie_345456nJFXdkrT_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 307
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 307
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 308
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 308
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 308
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 312
+        width: 114
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 170
+        width: 115
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 165
+        width: 115
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 161
+        width: 114
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 157
+        width: 114
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 155
+        width: 115
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_11
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 154
+        width: 115
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_345456nJFXdkrT_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 822
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

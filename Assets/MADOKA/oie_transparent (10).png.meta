@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: fbf1919903ee6bd438e8d3f08868b47b
+timeCreated: 1455438014
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oie_transparent (10)_0
+    21300002: oie_transparent (10)_1
+    21300004: oie_transparent (10)_2
+    21300006: oie_transparent (10)_3
+    21300008: oie_transparent (10)_4
+    21300010: oie_transparent (10)_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: oie_transparent (10)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 125
+        height: 105
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_transparent (10)_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 16
+        width: 118
+        height: 108
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_transparent (10)_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 16
+        width: 113
+        height: 108
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_transparent (10)_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 16
+        width: 69
+        height: 132
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_transparent (10)_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 16
+        width: 69
+        height: 132
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oie_transparent (10)_5
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 16
+        width: 63
+        height: 107
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
